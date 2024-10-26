@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Earth to Mars Launch Window Reservation</title>
+    <!-- 引入 Three.js -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+    <!-- 引入 OrbitControls -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <!-- 引入 GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
+    <!-- 引入自定义样式 -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- 容器 -->
+    <div id="container"></div>
+
+    <!-- 日期选择弹窗 -->
+    <div id="dateModal" class="modal hidden">
+        <div class="modal-content">
+            <label for="dateInput">Please select the date you want to depart after (leave blank for today):</label>
+            <input type="date" id="dateInput">
+            <button id="confirmDate">Confirm</button>
+        </div>
+    </div>
+
+    <!-- 成功提示弹窗 -->
+    <div id="successModal" class="modal hidden">
+        <div class="modal-content">
+            <p>Wish you a pleasant journey!</p>
+            <button id="closeSuccessModal">Close</button>
+        </div>
+    </div>
+
+    <!-- 初始提示消息 -->
+    <div id="message" class="message">Click to confirm your departure location</div>
+
+    <!-- 计算中消息 -->
+    <div id="calculatingMessage" class="calculating-message hidden">Calculating<span id="dots"></span></div>
+
+    <!-- 当前系统时间 -->
+    <div id="currentTime" class="current-time"></div>
+
+    <!-- 当前天气 -->
+    <div id="currentWeather" class="current-weather"></div>
+
+    <!-- 确认按钮（初始状态隐藏） -->
+    <button id="confirmButton" class="confirm-button hidden">Confirm</button>
+
+    <!-- 重置按钮 -->
+    <button id="resetButton" class="reset-button">Reset</button>
+
+    <!-- 引入自定义脚本 -->
+    <script src="js/script.js"></script>
+</body>
+</html>
