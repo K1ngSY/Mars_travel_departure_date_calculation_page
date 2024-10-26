@@ -1,0 +1,313 @@
+2024-10-25 19:03:17,615 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-25 19:03:17,615 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 19:03:17,618 [INFO]  * Restarting with stat
+2024-10-25 19:03:17,993 [WARNING]  * Debugger is active!
+2024-10-25 19:03:17,995 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:07:12,380 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 19:07:12,433 [INFO]  * Restarting with stat
+2024-10-25 19:07:12,838 [WARNING]  * Debugger is active!
+2024-10-25 19:07:12,842 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:08:01,339 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\controllers.py', reloading
+2024-10-25 19:08:01,391 [INFO]  * Restarting with stat
+2024-10-25 19:08:01,900 [WARNING]  * Debugger is active!
+2024-10-25 19:08:01,902 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:08:07,097 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\routes.py', reloading
+2024-10-25 19:08:07,145 [INFO]  * Restarting with stat
+2024-10-25 19:09:18,838 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-25 19:09:18,840 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 19:09:18,841 [INFO]  * Restarting with stat
+2024-10-25 19:09:19,634 [WARNING]  * Debugger is active!
+2024-10-25 19:09:19,637 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:09:27,068 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:09:45,163 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:09:45,164 [INFO] 127.0.0.1 - - [25/Oct/2024 19:09:45] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 19:10:28,021 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:10:45,550 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:10:45,551 [INFO] 127.0.0.1 - - [25/Oct/2024 19:10:45] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 19:11:20,436 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 19:11:20,488 [INFO]  * Restarting with stat
+2024-10-25 19:11:20,878 [WARNING]  * Debugger is active!
+2024-10-25 19:11:20,880 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:11:21,976 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 19:11:22,058 [INFO]  * Restarting with stat
+2024-10-25 19:11:22,467 [WARNING]  * Debugger is active!
+2024-10-25 19:11:22,470 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:11:26,482 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:11:38,224 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:11:38,226 [INFO] 127.0.0.1 - - [25/Oct/2024 19:11:38] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 19:17:11,972 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\__init__.py', reloading
+2024-10-25 19:17:12,030 [INFO]  * Restarting with stat
+2024-10-25 19:17:12,459 [WARNING]  * Debugger is active!
+2024-10-25 19:17:12,462 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:18:16,423 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\services.py', reloading
+2024-10-25 19:18:16,471 [INFO]  * Restarting with stat
+2024-10-25 19:18:16,900 [WARNING]  * Debugger is active!
+2024-10-25 19:18:16,903 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:18:32,380 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\controllers.py', reloading
+2024-10-25 19:18:32,459 [INFO]  * Restarting with stat
+2024-10-25 19:38:25,551 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-25 19:38:25,553 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 19:38:25,555 [INFO]  * Restarting with stat
+2024-10-25 19:38:25,983 [WARNING]  * Debugger is active!
+2024-10-25 19:38:25,985 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:38:28,454 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:38:39,980 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:38:39,982 [INFO] 127.0.0.1 - - [25/Oct/2024 19:38:39] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 19:41:09,679 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:41:21,689 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:41:21,691 [INFO] 127.0.0.1 - - [25/Oct/2024 19:41:21] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 19:57:57,664 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 19:57:57,667 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 19:57:57,668 [INFO]  * Restarting with stat
+2024-10-25 19:57:58,161 [WARNING]  * Debugger is active!
+2024-10-25 19:57:58,164 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 19:59:02,255 [INFO] Starting calculation with 10000 steps.
+2024-10-25 19:59:14,886 [INFO] Found launch window on: 2025-04-28
+2024-10-25 19:59:14,888 [INFO] 127.0.0.1 - - [25/Oct/2024 19:59:14] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 20:05:01,224 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 20:05:01,284 [INFO]  * Restarting with stat
+2024-10-25 20:05:01,726 [WARNING]  * Debugger is active!
+2024-10-25 20:05:01,729 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:05:11,064 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 20:05:11,116 [INFO]  * Restarting with stat
+2024-10-25 20:05:11,550 [WARNING]  * Debugger is active!
+2024-10-25 20:05:11,552 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:05:14,692 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 20:05:14,744 [INFO]  * Restarting with stat
+2024-10-25 20:05:15,247 [WARNING]  * Debugger is active!
+2024-10-25 20:05:15,250 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:08:10,514 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 20:08:10,517 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 20:08:10,518 [INFO]  * Restarting with stat
+2024-10-25 20:08:10,956 [WARNING]  * Debugger is active!
+2024-10-25 20:08:10,959 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:08:14,778 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 20:08:28,121 [WARNING] Warning on day offset 257.00: divide by zero encountered in scalar divide
+2024-10-25 20:08:32,137 [WARNING] Warning on day offset 428.20: divide by zero encountered in scalar divide
+2024-10-25 20:08:33,088 [INFO] Found launch window on: 2024-08-15
+2024-10-25 20:08:33,089 [INFO] 127.0.0.1 - - [25/Oct/2024 20:08:33] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 20:08:54,553 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 20:08:54,609 [INFO]  * Restarting with stat
+2024-10-25 20:08:55,076 [WARNING]  * Debugger is active!
+2024-10-25 20:08:55,079 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:08:56,775 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 20:09:11,592 [WARNING] Warning on day offset 257.00: divide by zero encountered in scalar divide
+2024-10-25 20:09:15,680 [WARNING] Warning on day offset 428.20: divide by zero encountered in scalar divide
+2024-10-25 20:09:16,489 [INFO] Found launch window on: 2024-08-15
+2024-10-25 20:09:16,491 [INFO] 127.0.0.1 - - [25/Oct/2024 20:09:16] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 20:10:10,695 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\utils.py', reloading
+2024-10-25 20:10:10,752 [INFO]  * Restarting with stat
+2024-10-25 20:10:11,190 [WARNING]  * Debugger is active!
+2024-10-25 20:10:11,193 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:10:16,299 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 20:10:29,566 [WARNING] Warning on day offset 257.00: divide by zero encountered in scalar divide
+2024-10-25 20:10:33,500 [WARNING] Warning on day offset 428.20: divide by zero encountered in scalar divide
+2024-10-25 20:10:34,376 [INFO] Found launch window on: 2024-08-15
+2024-10-25 20:10:34,377 [INFO] 127.0.0.1 - - [25/Oct/2024 20:10:34] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 20:19:22,165 [INFO]  * Detected change in 'D:\\earth-mars-window-backend\\app\\__init__.py', reloading
+2024-10-25 20:19:22,227 [INFO]  * Restarting with stat
+2024-10-25 20:28:18,924 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 20:28:18,927 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 20:28:18,928 [INFO]  * Restarting with stat
+2024-10-25 20:28:19,346 [WARNING]  * Debugger is active!
+2024-10-25 20:28:19,349 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:28:39,392 [INFO] Starting calculation with 10000 steps from date 2025-05-01.
+2024-10-25 20:28:59,248 [INFO] Found launch window on: 2025-05-03
+2024-10-25 20:28:59,249 [INFO] 127.0.0.1 - - [25/Oct/2024 20:28:59] "GET /api/window/next?date=2025-05-01 HTTP/1.1" 200 -
+2024-10-25 20:29:28,247 [INFO] Starting calculation with 10000 steps from date 2024-10-25.
+2024-10-25 20:29:46,691 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:29:46,692 [INFO] 127.0.0.1 - - [25/Oct/2024 20:29:46] "GET /api/window/next?date=2024-10-25 HTTP/1.1" 200 -
+2024-10-25 20:40:27,262 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 20:40:27,265 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 20:40:27,266 [INFO]  * Restarting with stat
+2024-10-25 20:40:27,762 [WARNING]  * Debugger is active!
+2024-10-25 20:40:27,765 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:40:39,677 [INFO] Starting calculation with 10000 steps from date 2024-10-25.
+2024-10-25 20:40:59,520 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:40:59,522 [INFO] 172.20.10.2 - - [25/Oct/2024 20:40:59] "GET /api/window/next?date=2024-10-25 HTTP/1.1" 200 -
+2024-10-25 20:52:30,347 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 20:52:30,349 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 20:52:30,351 [INFO]  * Restarting with stat
+2024-10-25 20:52:30,796 [WARNING]  * Debugger is active!
+2024-10-25 20:52:30,799 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 20:52:47,243 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 20:53:05,054 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:53:05,055 [INFO] 172.20.10.2 - - [25/Oct/2024 20:53:05] "GET /api/window/next?date=2024-10-26 HTTP/1.1" 200 -
+2024-10-25 20:56:19,169 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 20:56:36,435 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:56:36,436 [INFO] 172.20.10.5 - - [25/Oct/2024 20:56:36] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-25 20:56:46,135 [INFO] Starting calculation with 10000 steps from date 2024-10-25.
+2024-10-25 20:57:03,700 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:57:03,701 [INFO] 172.20.10.5 - - [25/Oct/2024 20:57:03] "GET /api/window/next?date=2024-10-25 HTTP/1.1" 200 -
+2024-10-25 20:57:07,247 [INFO] Starting calculation with 10000 steps from date 2024-10-25.
+2024-10-25 20:57:21,244 [INFO] Starting calculation with 10000 steps from date 2024-07-01.
+2024-10-25 20:57:26,636 [INFO] Found launch window on: 2025-04-28
+2024-10-25 20:57:26,637 [INFO] 172.20.10.5 - - [25/Oct/2024 20:57:26] "GET /api/window/next?date=2024-10-25 HTTP/1.1" 200 -
+2024-10-25 20:57:41,815 [INFO] Found launch window on: 2024-08-13
+2024-10-25 20:57:41,816 [INFO] 172.20.10.5 - - [25/Oct/2024 20:57:41] "GET /api/window/next?date=2024-07-01 HTTP/1.1" 200 -
+2024-10-25 20:58:04,533 [INFO] Starting calculation with 10000 steps from date 2024-08-01.
+2024-10-25 20:58:22,055 [INFO] Found launch window on: 2024-08-13
+2024-10-25 20:58:22,056 [INFO] 172.20.10.5 - - [25/Oct/2024 20:58:22] "GET /api/window/next?date=2024-08-01 HTTP/1.1" 200 -
+2024-10-25 21:12:51,739 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-25 21:12:51,742 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 21:12:51,744 [INFO]  * Restarting with stat
+2024-10-25 21:12:52,209 [WARNING]  * Debugger is active!
+2024-10-25 21:12:52,212 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 21:14:45,723 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-25 21:15:02,185 [INFO] Found launch window on: 2025-04-28
+2024-10-25 21:15:02,187 [INFO] 172.20.10.4 - - [25/Oct/2024 21:15:02] "GET /api/window/next?date=2024-10-26 HTTP/1.1" 200 -
+2024-10-25 21:15:53,055 [INFO] Starting calculation with 10000 steps from date 2024-11-14.
+2024-10-25 21:15:56,859 [INFO] Starting calculation with 10000 steps from date 2024-11-14.
+2024-10-25 21:15:57,602 [INFO] Starting calculation with 10000 steps from date 2024-11-14.
+2024-10-25 21:15:59,701 [INFO] Starting calculation with 10000 steps from date 2024-11-14.
+2024-10-25 21:16:19,963 [INFO] Found launch window on: 2025-04-28
+2024-10-25 21:16:19,965 [INFO] 172.20.10.4 - - [25/Oct/2024 21:16:19] "GET /api/window/next?date=2024-11-14 HTTP/1.1" 200 -
+2024-10-25 21:16:26,778 [INFO] Found launch window on: 2025-04-28
+2024-10-25 21:16:26,779 [INFO] 172.20.10.4 - - [25/Oct/2024 21:16:26] "GET /api/window/next?date=2024-11-14 HTTP/1.1" 200 -
+2024-10-25 21:16:27,523 [INFO] Found launch window on: 2025-04-28
+2024-10-25 21:16:27,525 [INFO] 172.20.10.4 - - [25/Oct/2024 21:16:27] "GET /api/window/next?date=2024-11-14 HTTP/1.1" 200 -
+2024-10-25 21:16:29,435 [INFO] Found launch window on: 2025-04-28
+2024-10-25 21:16:29,436 [INFO] 172.20.10.4 - - [25/Oct/2024 21:16:29] "GET /api/window/next?date=2024-11-14 HTTP/1.1" 200 -
+2024-10-25 22:07:51,329 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.49:5000
+2024-10-25 22:07:51,329 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-25 22:07:51,331 [INFO]  * Restarting with stat
+2024-10-25 22:07:51,706 [WARNING]  * Debugger is active!
+2024-10-25 22:07:51,710 [INFO]  * Debugger PIN: 745-721-679
+2024-10-25 22:12:49,475 [INFO] 10.0.0.217 - - [25/Oct/2024 22:12:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-25 22:12:50,427 [INFO] 10.0.0.217 - - [25/Oct/2024 22:12:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-26 02:45:13,228 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.183:5000
+2024-10-26 02:45:13,230 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-26 02:45:13,232 [INFO]  * Restarting with stat
+2024-10-26 02:45:13,680 [WARNING]  * Debugger is active!
+2024-10-26 02:45:13,683 [INFO]  * Debugger PIN: 745-721-679
+2024-10-26 02:47:44,591 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 02:48:05,195 [INFO] Found launch window on: 2025-04-28
+2024-10-26 02:48:05,198 [INFO] 127.0.0.1 - - [26/Oct/2024 02:48:05] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 02:48:21,387 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 02:48:42,282 [INFO] Found launch window on: 2025-04-28
+2024-10-26 02:48:42,283 [INFO] 127.0.0.1 - - [26/Oct/2024 02:48:42] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 02:58:18,437 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 02:58:41,607 [INFO] Found launch window on: 2025-04-28
+2024-10-26 02:58:41,609 [INFO] 127.0.0.1 - - [26/Oct/2024 02:58:41] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 03:10:09,875 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 03:10:30,932 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:10:30,933 [INFO] 127.0.0.1 - - [26/Oct/2024 03:10:30] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 03:20:48,175 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 03:21:09,379 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:21:09,381 [INFO] 127.0.0.1 - - [26/Oct/2024 03:21:09] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 03:26:14,610 [INFO] Starting calculation with 10000 steps from date 2025-01-08.
+2024-10-26 03:26:32,326 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:26:32,327 [INFO] 10.0.0.204 - - [26/Oct/2024 03:26:32] "GET /api/window/next?date=2025-01-08 HTTP/1.1" 200 -
+2024-10-26 03:31:33,605 [INFO] Starting calculation with 10000 steps from date 2025-03-05.
+2024-10-26 03:31:49,139 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:31:49,140 [INFO] 10.0.0.204 - - [26/Oct/2024 03:31:49] "GET /api/window/next?date=2025-03-05 HTTP/1.1" 200 -
+2024-10-26 03:33:59,210 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 03:34:17,124 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:34:17,125 [INFO] 10.0.0.217 - - [26/Oct/2024 03:34:17] "GET /api/window/next HTTP/1.1" 200 -
+2024-10-26 03:36:52,158 [INFO] Starting calculation with 10000 steps from date 2025-05-10.
+2024-10-26 03:37:08,328 [INFO] Found launch window on: 2025-09-14
+2024-10-26 03:37:08,329 [INFO] 10.0.0.217 - - [26/Oct/2024 03:37:08] "GET /api/window/next?date=2025-05-10 HTTP/1.1" 200 -
+2024-10-26 03:37:46,824 [INFO] Starting calculation with 10000 steps from date 2025-02-07.
+2024-10-26 03:38:01,878 [INFO] Found launch window on: 2025-04-28
+2024-10-26 03:38:01,879 [INFO] 10.0.0.217 - - [26/Oct/2024 03:38:01] "GET /api/window/next?date=2025-02-07 HTTP/1.1" 200 -
+2024-10-26 10:47:54,851 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-10-26 10:47:54,852 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-26 10:47:54,855 [INFO]  * Restarting with stat
+2024-10-26 10:47:55,511 [WARNING]  * Debugger is active!
+2024-10-26 10:47:55,521 [INFO]  * Debugger PIN: 745-721-679
+2024-10-26 10:51:26,487 [INFO] Starting calculation with 10000 steps from date 2024-12-25.
+2024-10-26 10:51:48,536 [INFO] Found launch window on: 2025-04-28
+2024-10-26 10:51:48,538 [INFO] 172.20.10.5 - - [26/Oct/2024 10:51:48] "GET /api/window/next?date=2024-12-25 HTTP/1.1" 200 -
+2024-10-26 10:58:48,202 [INFO] Starting calculation with 10000 steps from date 2025-04-01.
+2024-10-26 10:59:26,376 [INFO] Found launch window on: 2025-04-28
+2024-10-26 10:59:26,380 [INFO] 172.20.10.4 - - [26/Oct/2024 10:59:26] "GET /api/window/next?date=2025-04-01 HTTP/1.1" 200 -
+2024-10-26 11:00:41,242 [INFO] Starting calculation with 10000 steps from date 2025-04-02.
+2024-10-26 11:01:22,884 [INFO] Found launch window on: 2025-04-28
+2024-10-26 11:01:22,888 [INFO] 172.20.10.4 - - [26/Oct/2024 11:01:22] "GET /api/window/next?date=2025-04-02 HTTP/1.1" 200 -
+2024-10-26 11:08:51,032 [INFO] 127.0.0.1 - - [26/Oct/2024 11:08:51] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-26 11:08:52,342 [INFO] 127.0.0.1 - - [26/Oct/2024 11:08:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-26 11:11:00,062 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-26 11:11:00,064 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-26 11:11:00,066 [INFO]  * Restarting with stat
+2024-10-26 11:11:00,630 [WARNING]  * Debugger is active!
+2024-10-26 11:11:00,635 [INFO]  * Debugger PIN: 745-721-679
+2024-10-26 12:15:42,161 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-26 12:15:42,162 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-26 12:15:42,164 [INFO]  * Restarting with stat
+2024-10-26 12:15:42,550 [WARNING]  * Debugger is active!
+2024-10-26 12:15:42,554 [INFO]  * Debugger PIN: 745-721-679
+2024-10-26 12:16:31,754 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.41.76.0:5000
+2024-10-26 12:16:31,756 [INFO] [33mPress CTRL+C to quit[0m
+2024-10-26 12:27:01,063 [INFO] Serving on http://0.0.0.0:5000
+2024-10-26 12:28:31,561 [INFO] Starting calculation with 10000 steps from date 2025-05-01.
+2024-10-26 12:28:49,203 [INFO] Found launch window on: 2025-05-03
+2024-10-26 12:29:08,214 [INFO] Starting calculation with 10000 steps from date 2025-05-01.
+2024-10-26 12:29:27,938 [INFO] Found launch window on: 2025-05-03
+2024-10-26 12:29:43,734 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:30:02,711 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:36:41,633 [INFO] Serving on http://0.0.0.0:5000
+2024-10-26 12:36:48,508 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:37:06,944 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:40:10,302 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:40:35,116 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:42:35,713 [INFO] Serving on http://0.0.0.0:5000
+2024-10-26 12:42:59,444 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:43:09,236 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:43:22,912 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:43:32,857 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:43:47,188 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:43:57,328 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:44:03,864 [INFO] Starting calculation with 10000 steps from date 2024-10-26.
+2024-10-26 12:44:14,303 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:49:07,684 [INFO] Serving on http://0.0.0.0:5000
+2024-10-26 12:54:35,953 [INFO] Starting calculation with 10000 steps from date 2024-10-31.
+2024-10-26 12:54:48,856 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:55:03,551 [INFO] Starting calculation with 10000 steps from date 2024-10-30.
+2024-10-26 12:55:17,932 [INFO] Found launch window on: 2025-04-28
+2024-10-26 12:56:41,061 [INFO] Starting calculation with 10000 steps from date 2024-10-31.
+2024-10-26 12:56:55,959 [INFO] Found launch window on: 2025-04-28
